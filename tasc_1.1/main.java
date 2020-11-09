@@ -41,4 +41,8 @@
         a= TF * 1.15;
         System.out.println(a);
     }
-7
+7 int a = 25;
+        int b = 5;
+        int c = 2;
+        System.out.println ((a*b*c)*1000);
+    }
