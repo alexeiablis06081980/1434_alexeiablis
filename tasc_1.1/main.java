@@ -36,3 +36,9 @@
         System.out.print(TF);
     }
 6
+  int TF = 10;
+        double a ;
+        a= TF * 1.15;
+        System.out.println(a);
+    }
+7
