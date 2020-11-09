@@ -17,11 +17,7 @@
         //* System.out.print("пять");
         System.out.print(a + b); 
         
-        
-        
-        
-        
-      3  
+          3  
         int a = 5;
         int b = 7;
          String s;?
@@ -31,3 +27,12 @@
         int number  = 25;
         int number1 = 2;
         System.out.print(number1 * number);
+5 double TC;
+        TC = 41;
+        TC =9 * TC/ 5;
+
+        double TF = TC + 32;
+
+        System.out.print(TF);
+    }
+6
