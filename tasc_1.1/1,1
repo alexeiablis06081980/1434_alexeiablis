@@ -1,1 +1,6 @@
-
+1 String name = "Stepan";
+        String city = "ll";
+        int age = 1;
+        System.out.println(name);
+        System.out.println(city);
+        System.out.println(age);
