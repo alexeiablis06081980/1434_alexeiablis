@@ -1,0 +1,18 @@
+  public static void main(String[] args) {
+      /*  Scanner scanner = new Scanner(System.in);
+        System.out.println("Ведите первое число");
+        int num1 = Scanner.nextInt();
+        System.out.println("Ведите второе число");
+        int num2 = Scanner.nextInt();
+        System.out.println("Ведите третие число");
+        int num3 = Scanner.nextInt();
+        System.out.println("минимальное число:" + getMin(num1, num2, num3));
+    }
+        public static int getMin (int a,int b,int c) {
+            if (a < b) return a;
+            else if (a > b) return b;
+            else if (c < a) return c;
+            else if (c > a) return a;
+            else return a;
+        }*/
+неполучяется
